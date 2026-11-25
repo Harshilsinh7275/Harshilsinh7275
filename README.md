@@ -15,21 +15,6 @@ data engineering, distributed processing, cloud platforms and automation.
 🐳 Docker • Git • CI/CD  
 🤖 LangGraph • LangChain • AI-powered data applications
 
----
-
-## 👨‍💻 About Me
-
-I'm a software engineer transitioning deeper into Data Engineering, with
-professional experience building backend systems and automated data
-processing workflows.
-
-At the Space Applications Centre (ISRO), I worked on automated data ingestion,
-geospatial data processing and SpatioTemporal Asset Catalogs (STAC), working
-with large-scale satellite datasets and Python-based data workflows.
-
-I enjoy working at the intersection of:
-
-**Software Engineering × Data Engineering × Cloud × AI**
 
 ---
 
